@@ -17,7 +17,7 @@ __Install Node.js and npm__
 - First we need to download Node.js and npm from this site:
 [click on me](https://nodejs.org/ru/) 
 
-__Create app__
+__Create app__  
 - Then we will need to go to the command line, I recommend using GitBash, because of its functionality. [click on me](https://git-scm.com/downloads)
 - Then you need to create a folder in which we will have the project
 - Then just go to this folder using the command line and the command ```cd```
