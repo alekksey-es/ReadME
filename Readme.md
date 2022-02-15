@@ -1,15 +1,15 @@
-#ReadMe
+#ReadMe#
 * [Go to About](#About)
 * [Go to Installation](#Installation)
 * [Go to Author of Project](#Author_of_Project)
 * [Go to Troubleshooting](#Troubleshooting)
 ***
 <a id="About"></a>
-###About
+###About###
 
 ***
 <a id="Installation"></a>
-###Installation
+###Installation###
 >__Install Node.js and npm__
 - First we need to download Node.js and npm from this site:
 [click on me](https://nodejs.org/ru/) 
@@ -22,10 +22,10 @@
 
 ***
 <a id="Author_of_Project"></a>
-###Author of Project
+###Author of Project###
 ___Aleksey Guk___
 ***
 <a id="Troubleshooting"></a>
-###Troubleshooting
-####No problems identified so far
+###Troubleshooting###
+####No problems identified so far####
 ***
