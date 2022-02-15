@@ -10,7 +10,7 @@
 ***
 <a id="Installation"></a>
 ###Installation
-__Install Node.js and npm__
+>__Install Node.js and npm__
 - First we need to download Node.js and npm from this site:
 [click on me](https://nodejs.org/ru/) 
 - Then we will need to go to the command line, I recommend using GitBash, because of its functionality. [click on me](https://git-scm.com/downloads)
