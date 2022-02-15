@@ -1,8 +1,8 @@
 #ReadMe
-[Go to About](#About)
-[Go to Installation](#Installation)
-[Go to Author of Project](#Author_of_Project)
-[Go to Troubleshooting](#Troubleshooting)
+* [Go to About](#About)
+* [Go to Installation](#Installation)
+* [Go to Author of Project](#Author_of_Project)
+* [Go to Troubleshooting](#Troubleshooting)
 ***
 <a id="About"></a>
 ###About
